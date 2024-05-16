@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "76c42505-e2eb-423d-8211-a23df29037b0",
+    "name": "Test Scenario",
+    "time": "30",
+    "vehicles": [
+      "f4a18a7c-571e-44ad-b262-15379c24ae52",
+      "3e3b49fe-32bb-4ed5-b6dd-4eb93aaa877f"
+    ]
+  },
+  {
+    "id": "1feea47b-e270-4023-82f5-d1a38557eff4",
+    "name": "My Scenario",
+    "time": "8",
+    "vehicles": [
+      "ffde31bb-d962-4f94-a24e-e971a268c679"
+    ]
+  }
+]
