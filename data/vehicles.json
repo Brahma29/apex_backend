@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "f4a18a7c-571e-44ad-b262-15379c24ae52",
+    "name": "Bus",
+    "positionX": "200",
+    "positionY": "200",
+    "speed": "20",
+    "direction": "backwards",
+    "scenario": "76c42505-e2eb-423d-8211-a23df29037b0"
+  },
+  {
+    "id": "3e3b49fe-32bb-4ed5-b6dd-4eb93aaa877f",
+    "name": "Car",
+    "positionX": "10",
+    "positionY": "100",
+    "speed": "10",
+    "direction": "backwards",
+    "scenario": "76c42505-e2eb-423d-8211-a23df29037b0"
+  },
+  {
+    "id": "ffde31bb-d962-4f94-a24e-e971a268c679",
+    "name": "Truck",
+    "positionX": "300",
+    "positionY": "200",
+    "speed": "10",
+    "direction": "upwards",
+    "scenario": "1feea47b-e270-4023-82f5-d1a38557eff4"
+  }
+]
