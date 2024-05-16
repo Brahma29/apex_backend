@@ -1,52 +1,22 @@
 [
   {
-    "id": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c",
-    "name": "My Scenario",
-    "time": 30,
+    "id": "c19b580d-7227-465d-a0a4-695960719d1f",
+    "name": "Test Scenario",
+    "time": "21",
     "vehicles": [
-      {
-        "id": "75c54858-e7d1-496c-b63a-36602c9df04c",
-        "name": "Bus",
-        "positionX": 200,
-        "positionY": 100,
-        "speed": 30,
-        "direction": "upwards",
-        "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
-      },
-      {
-        "id": "cec0489e-f110-446c-a247-d56dbabecded",
-        "name": "Bus",
-        "positionX": "400",
-        "positionY": "400",
-        "speed": "20",
-        "direction": "backwards",
-        "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
-      },
-      {
-        "id": "60db257f-6866-4c4c-8bef-3b134b44d4d7",
-        "name": "Truck",
-        "positionX": "1666",
-        "positionY": "2988",
-        "speed": "23",
-        "direction": "towards",
-        "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
-      }
+      "6c6b2f50-8a24-4f90-b498-246b311b2c25",
+      "d60b6ab1-0e44-4bc2-928d-ff0fb2a11ca0",
+      "14227fba-4495-4aea-b241-b7b82a81b65f",
+      "e54e1e40-97d7-4a43-a1c5-bad3abd8bf35",
+      "d8b056d7-b3ad-4e66-9157-5b4e9454d241"
     ]
   },
   {
-    "id": "b0e51139-1e3a-450e-9ee4-983db82a3089",
-    "name": "Test Scenario",
+    "id": "8eb8157d-d173-4c53-9421-2cce1886a8e1",
+    "name": "My Scenario",
     "time": "15",
     "vehicles": [
-      {
-        "id": "8b0b4021-6c2a-49b0-834e-f5da1302d1e9",
-        "name": "Truck",
-        "positionX": "1666",
-        "positionY": "2988",
-        "speed": "211",
-        "direction": "towards",
-        "scenario": "b0e51139-1e3a-450e-9ee4-983db82a3089"
-      }
+      "4153f311-413e-4eca-9a96-a4e17eacefb2"
     ]
   }
 ]

@@ -84,7 +84,7 @@ export const deleteScenario = async (req, res) => {
         const { id } = req.params;
 
         if (!id) {
-            throw new Error('Missing required scenario ID in request body.');
+            throw new Error('Missing required scenario ID in request params.');
         }
 
         const scenariosData = await fs.readFile(DATA_PATH, 'utf-8');

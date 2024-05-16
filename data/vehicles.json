@@ -1,38 +1,47 @@
 [
   {
-    "id": "75c54858-e7d1-496c-b63a-36602c9df04c",
-    "name": "Bus",
-    "positionX": 200,
-    "positionY": 100,
-    "speed": 30,
-    "direction": "upwards",
-    "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
-  },
-  {
-    "id": "cec0489e-f110-446c-a247-d56dbabecded",
-    "name": "Bus",
+    "id": "a0de6068-e8ea-47c8-9a24-c85d67713a12",
+    "name": "Buses",
     "positionX": "400",
-    "positionY": "400",
-    "speed": "20",
+    "positionY": "299",
+    "speed": "11",
+    "direction": "upwards",
+    "scenario": "fc667d42-7667-48d6-ad11-62d766e0e9be"
+  },
+  {
+    "id": "6c6b2f50-8a24-4f90-b498-246b311b2c25",
+    "name": "Bus",
+    "positionX": "4",
+    "positionY": "4",
+    "speed": "3",
+    "direction": "upwards",
+    "scenario": "c19b580d-7227-465d-a0a4-695960719d1f"
+  },
+  {
+    "id": "d60b6ab1-0e44-4bc2-928d-ff0fb2a11ca0",
+    "name": "Car",
+    "positionX": "200",
+    "positionY": "320",
+    "speed": "10",
     "direction": "backwards",
-    "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
+    "scenario": "c19b580d-7227-465d-a0a4-695960719d1f"
   },
   {
-    "id": "60db257f-6866-4c4c-8bef-3b134b44d4d7",
-    "name": "Truck",
-    "positionX": "1666",
-    "positionY": "2988",
-    "speed": "23",
-    "direction": "towards",
-    "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
+    "id": "e54e1e40-97d7-4a43-a1c5-bad3abd8bf35",
+    "name": "Plane",
+    "positionX": "30",
+    "positionY": "60",
+    "speed": "300",
+    "direction": "upwards",
+    "scenario": "c19b580d-7227-465d-a0a4-695960719d1f"
   },
   {
-    "id": "8b0b4021-6c2a-49b0-834e-f5da1302d1e9",
-    "name": "Truck",
-    "positionX": "1666",
-    "positionY": "2988",
-    "speed": "211",
-    "direction": "towards",
-    "scenario": "b0e51139-1e3a-450e-9ee4-983db82a3089"
+    "id": "4153f311-413e-4eca-9a96-a4e17eacefb2",
+    "name": "Bus",
+    "positionX": "109",
+    "positionY": "90",
+    "speed": "90",
+    "direction": "backwards",
+    "scenario": "8eb8157d-d173-4c53-9421-2cce1886a8e1"
   }
 ]
