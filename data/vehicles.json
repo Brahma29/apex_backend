@@ -7,5 +7,32 @@
     "speed": 30,
     "direction": "upwards",
     "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
+  },
+  {
+    "id": "cec0489e-f110-446c-a247-d56dbabecded",
+    "name": "Bus",
+    "positionX": "400",
+    "positionY": "400",
+    "speed": "20",
+    "direction": "backwards",
+    "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
+  },
+  {
+    "id": "60db257f-6866-4c4c-8bef-3b134b44d4d7",
+    "name": "Truck",
+    "positionX": "1666",
+    "positionY": "2988",
+    "speed": "23",
+    "direction": "towards",
+    "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
+  },
+  {
+    "id": "8b0b4021-6c2a-49b0-834e-f5da1302d1e9",
+    "name": "Truck",
+    "positionX": "1666",
+    "positionY": "2988",
+    "speed": "211",
+    "direction": "towards",
+    "scenario": "b0e51139-1e3a-450e-9ee4-983db82a3089"
   }
 ]
