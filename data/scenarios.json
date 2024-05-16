@@ -1,0 +1,18 @@
+[
+  {
+    "id": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c",
+    "name": "My Scenario",
+    "time": 30,
+    "vehicles": [
+      {
+        "id": "75c54858-e7d1-496c-b63a-36602c9df04c",
+        "name": "Bus",
+        "positionX": 200,
+        "positionY": 100,
+        "speed": 30,
+        "direction": "upwards",
+        "scenario": "96ecc225-bbc7-4615-b758-8f94ea2e1b1c"
+      }
+    ]
+  }
+]
